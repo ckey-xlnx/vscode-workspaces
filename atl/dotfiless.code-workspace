@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "agent-instructions",
+			"path": "../../agent-instructions"
+		},
+		{
+			"name": ".dotfiles",
+			"path": "/home/ckey/.dotfiles"
+		}
+	],
+	"settings": {}
+}
